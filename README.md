@@ -20,7 +20,7 @@ To perform the SQL data analysis, I used Microsoft SQL Server Management Studio.
 
 ## Tableau Visualization
 
-To create the Tableau visualizations, I used Tableau Desktop. The visualizations visualize the data and provide insights into the COVID-19 pandemic. The visualizations include:
+To create the Tableau visualizations, I used Tableau Public. The visualizations visualize the data and provide insights into the COVID-19 pandemic. The visualizations include:
 
 - Percent Population Infected Per Country
 - Global Numbers
