@@ -28,4 +28,8 @@ To create the Tableau visualizations, I used Tableau Public. The visualizations 
 - Average Percent Population Infected By Quarter
 - Percent Population Infected Per Continent
 
-Check out my Tableau dashboard [here](https://public.tableau.com/app/profile/amo8283/viz/CovidInfectedDashboard_16809743367110/Dashboard1) to see more visualizations.
+Check out my [COVID-19 Infection Dashboard](https://public.tableau.com/app/profile/amo8283/viz/CovidInfectedDashboard_16809743367110/Dashboard1) on Tableau Public to see more visualizations.
+
+## Conclusion
+
+This project provided insights into the COVID-19 pandemic using data analysis and visualization techniques. The findings can be used to understand the spread of the virus and inform public health policy decisions.
